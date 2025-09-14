@@ -5,38 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.poci.us.ico",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "95.17%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "95.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 634,
     "timeDay": 634,
     "timeWeek": 634,
     "timeMonth": 634,
     "timeYear": 634,
-    "dailyMinutesDown": {
-      "2025-09-14": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GoToSocial",
     "url": "https://gts.poci.us/about",
     "icon": "https://icons.duckduckgo.com/ip3/gts.poci.us.ico",
     "slug": "go-to-social",
-    "status": "up",
-    "uptime": "94.16%",
-    "uptimeDay": "94.16%",
-    "uptimeWeek": "94.16%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "94.16%",
-    "time": 117,
-    "timeDay": 117,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 115,
+    "timeDay": 115,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-09-14": 9
+      "2025-09-14": 0
     }
   },
   {
@@ -81,38 +79,36 @@
     "icon": "https://matrix.org/assets/favicon.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "94.23%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "94.23%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "94.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 115,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2025-09-14": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Caddy",
     "url": "https://poci.us/healthz",
     "icon": "https://caddyserver.com/resources/images/favicon.png",
     "slug": "caddy",
-    "status": "up",
-    "uptime": "95.25%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "95.25%",
-    "time": 236,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-09-14": 9
+      "2025-09-14": 0
     }
   },
   {
@@ -120,19 +116,19 @@
     "url": "https://skaitytojas.poci.us/healthz",
     "icon": "https://em-content.zobj.net/source/apple/76/nerd-face_1f913.png",
     "slug": "skaitytojas",
-    "status": "down",
-    "uptime": "60.97%",
-    "uptimeDay": "60.97%",
-    "uptimeWeek": "60.97%",
-    "uptimeMonth": "60.97%",
-    "uptimeYear": "60.97%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "status": "up",
+    "uptime": "41.46%",
+    "uptimeDay": "41.46%",
+    "uptimeWeek": "41.46%",
+    "uptimeMonth": "41.46%",
+    "uptimeYear": "41.46%",
+    "time": 115,
+    "timeDay": 115,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-09-14": 9
+      "2025-09-14": 19
     }
   }
 ]
