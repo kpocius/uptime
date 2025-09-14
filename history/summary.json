@@ -4,19 +4,19 @@
     "url": "https://s.poci.us/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/s.poci.us.ico",
     "slug": "sear-xng",
-    "status": "down",
-    "uptime": "96.53%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "96.53%",
-    "time": 678,
-    "timeDay": 678,
-    "timeWeek": 678,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "status": "up",
+    "uptime": "95.17%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "95.17%",
+    "uptimeYear": "95.17%",
+    "time": 634,
+    "timeDay": 634,
+    "timeWeek": 634,
+    "timeMonth": 634,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2025-09-14": 6
+      "2025-09-14": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gts.poci.us/about",
     "icon": "https://icons.duckduckgo.com/ip3/gts.poci.us.ico",
     "slug": "go-to-social",
-    "status": "down",
-    "uptime": "95.83%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.83%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "94.16%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "94.16%",
+    "uptimeMonth": "94.16%",
+    "uptimeYear": "94.16%",
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-09-14": 6
+      "2025-09-14": 9
     }
   },
   {
@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/irc.poci.us.ico",
     "slug": "the-lounge",
     "status": "up",
-    "uptime": "96.03%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "96.03%",
-    "uptimeYear": "96.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2025-09-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Lounge (Public)",
@@ -65,38 +63,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/lounge.poci.us.ico",
     "slug": "the-lounge-public",
     "status": "up",
-    "uptime": "96.05%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "96.05%",
-    "uptimeYear": "96.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 165,
     "timeWeek": 165,
     "timeMonth": 165,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2025-09-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matrix",
     "url": "https://matrix.poci.us",
     "icon": "https://matrix.org/assets/favicon.ico",
     "slug": "matrix",
-    "status": "down",
-    "uptime": "95.96%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "95.96%",
-    "time": 123,
-    "timeDay": 123,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "94.23%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "94.23%",
+    "uptimeYear": "94.23%",
+    "time": 115,
+    "timeDay": 115,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-09-14": 6
+      "2025-09-14": 9
     }
   },
   {
@@ -104,19 +100,19 @@
     "url": "https://poci.us/healthz",
     "icon": "https://caddyserver.com/resources/images/favicon.png",
     "slug": "caddy",
-    "status": "down",
-    "uptime": "96.71%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "96.71%",
-    "time": 243,
-    "timeDay": 243,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "status": "up",
+    "uptime": "95.25%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "95.25%",
+    "uptimeYear": "95.25%",
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-09-14": 6
+      "2025-09-14": 9
     }
   },
   {
@@ -125,18 +121,18 @@
     "icon": "https://em-content.zobj.net/source/apple/76/nerd-face_1f913.png",
     "slug": "skaitytojas",
     "status": "down",
-    "uptime": "69.93%",
-    "uptimeDay": "69.93%",
-    "uptimeWeek": "69.93%",
-    "uptimeMonth": "69.93%",
-    "uptimeYear": "69.93%",
+    "uptime": "60.97%",
+    "uptimeDay": "60.97%",
+    "uptimeWeek": "60.97%",
+    "uptimeMonth": "60.97%",
+    "uptimeYear": "60.97%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-09-14": 6
+      "2025-09-14": 9
     }
   }
 ]
