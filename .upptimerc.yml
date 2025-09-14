@@ -29,7 +29,11 @@ sites:
     icon: https://caddyserver.com/resources/images/favicon.png
     type: globalping
     location: Lithuania
-
+  - name: Caddy
+    url: https://skaitytojas.poci.us/healthz
+    icon: https://em-content.zobj.net/source/apple/76/nerd-face_1f913.png
+    type: globalping
+    location: Lithuania
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
