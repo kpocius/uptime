@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.poci.us.ico",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "2.94%",
-    "uptimeDay": "2.94%",
-    "uptimeWeek": "2.94%",
-    "uptimeMonth": "2.94%",
-    "uptimeYear": "2.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 505,
     "timeDay": 505,
     "timeWeek": 505,
     "timeMonth": 505,
     "timeYear": 505,
-    "dailyMinutesDown": {
-      "2025-09-14": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
