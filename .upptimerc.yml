@@ -3,10 +3,6 @@ owner: kpocius # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
-  - name: Caddy
-    url: https://poci.us/healthz
-    type: globalping
-    location: Lithuania
   - name: SearXNG
     url: https://s.poci.us/healthz
     type: globalping
@@ -15,16 +11,21 @@ sites:
     url: https://gts.poci.us/about
     type: globalping
     location: Lithuania
-  - name: Matrix
-    url: https://matrix.poci.us
-    type: globalping
-    location: Lithuania
   - name: The Lounge
     url: https://irc.poci.us
     type: globalping
     location: Lithuania
   - name: The Lounge (Public)
     url: https://lounge.poci.us
+    type: globalping
+    location: Lithuania
+  - name: Matrix
+    url: https://matrix.poci.us
+    type: globalping
+    location: Lithuania
+  - name: Caddy
+    url: https://poci.us/healthz
+    icon: https://caddyserver.com/resources/images/favicon.png
     type: globalping
     location: Lithuania
 
