@@ -11,6 +11,22 @@ sites:
     url: https://s.poci.us/healthz
     type: globalping
     location: Lithuania
+  - name: GoToSocial
+    url: https://gts.poci.us/about
+    type: globalping
+    location: Lithuania
+  - name: Matrix
+    url: https://matrix.poci.us
+    type: globalping
+    location: Lithuania
+  - name: The Lounge
+    url: https://irc.poci.us
+    type: globalping
+    location: Lithuania
+  - name: The Lounge (Public)
+    url: https://lounge.poci.us
+    type: globalping
+    location: Lithuania
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
