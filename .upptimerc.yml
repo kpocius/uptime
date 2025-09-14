@@ -21,6 +21,7 @@ sites:
     location: Lithuania
   - name: Matrix
     url: https://matrix.poci.us
+    icon: https://matrix.org/assets/favicon.ico
     type: globalping
     location: Lithuania
   - name: Caddy
