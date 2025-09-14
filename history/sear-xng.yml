@@ -1,7 +1,7 @@
 url: https://s.poci.us/healthz
-status: up
-code: 200
-responseTime: 163
-lastUpdated: 2025-09-14T22:41:42.650Z
+status: down
+code: 530
+responseTime: 66
+lastUpdated: 2025-09-14T22:55:06.779Z
 startTime: 2025-09-14T20:00:35.363Z
 generator: Upptime <https://github.com/upptime/upptime>
