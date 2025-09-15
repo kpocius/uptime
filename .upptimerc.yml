@@ -5,18 +5,22 @@ repo: uptime # The name of this repository
 sites:
   - name: SearXNG
     url: https://s.poci.us/healthz
+    slug: searxng
     type: globalping
     location: Lithuania
   - name: GoToSocial
     url: https://gts.poci.us/about
+    slug: gotosocial
     type: globalping
     location: Lithuania
   - name: The Lounge
     url: https://irc.poci.us
+    slug: thelounge
     type: globalping
     location: Lithuania
   - name: The Lounge (Public)
     url: https://lounge.poci.us
+    slug: thelounge-public
     type: globalping
     location: Lithuania
   - name: Matrix
@@ -29,9 +33,21 @@ sites:
     icon: https://caddyserver.com/resources/images/favicon.png
     type: globalping
     location: Lithuania
+  - name: viešpirkiai
+    url: https://viespirkiai.top
+    type: globalping
+    location: Lithuania
   - name: Skaitytojas
     url: https://skaitytojas.poci.us/healthz
     icon: https://em-content.zobj.net/source/apple/76/nerd-face_1f913.png
+    type: globalping
+    location: Lithuania
+  - name: RDP
+    url: http://$RDP
+    type: globalping
+    location: Lithuania
+  - name: RFC
+    url: http://$RFC
     type: globalping
     location: Lithuania
 
