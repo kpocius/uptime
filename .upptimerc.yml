@@ -43,11 +43,11 @@ sites:
     type: globalping
     location: Lithuania
   - name: RDP
-    url: http://$RDP
+    url: $RDP
     type: globalping
     location: Lithuania
   - name: RFC
-    url: http://$RFC
+    url: $RFC
     type: globalping
     location: Lithuania
 
