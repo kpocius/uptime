@@ -5,22 +5,18 @@ repo: uptime # The name of this repository
 sites:
   - name: SearXNG
     url: https://s.poci.us/healthz
-    slug: searxng
     type: globalping
     location: Lithuania
   - name: GoToSocial
     url: https://gts.poci.us/about
-    slug: gotosocial
     type: globalping
     location: Lithuania
   - name: The Lounge
     url: https://irc.poci.us
-    slug: thelounge
     type: globalping
     location: Lithuania
   - name: The Lounge (Public)
     url: https://lounge.poci.us
-    slug: thelounge-public
     type: globalping
     location: Lithuania
   - name: Matrix
