@@ -40,17 +40,19 @@ sites:
     location: Lithuania
   - name: Skaitytojas
     url: https://skaitytojas.poci.us/healthz
-    icon: https://em-content.zobj.net/source/apple/76/nerd-face_1f913.png
+    icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f913.png
     type: globalping
     location: Lithuania
   - name: RDP
     check: "tcp-ping"
     url: $RDP
     port: 80
+    icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f3f4.png
   - name: RFC
     check: "tcp-ping"
     url: $RFC
     port: 9120
+    icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f3f4.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
