@@ -29,6 +29,11 @@ sites:
     icon: https://caddyserver.com/resources/images/favicon.png
     type: globalping
     location: Lithuania
+  - name: Caddy Proxy
+    url: https://poci.us/feed/vilnius
+    icon: https://caddyserver.com/resources/images/favicon.png
+    type: globalping
+    location: London
   - name: viešpirkiai
     url: https://viespirkiai.top
     icon: https://viespirkiai.top/icons/icon.png
