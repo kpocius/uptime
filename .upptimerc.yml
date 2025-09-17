@@ -15,7 +15,7 @@ sites:
     url: https://irc.poci.us
     type: globalping
     location: Lithuania
-  - name: The Lounge (Public)
+  - name: The Lounge Public
     url: https://lounge.poci.us
     type: globalping
     location: Lithuania
