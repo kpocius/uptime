@@ -49,6 +49,8 @@ sites:
     url: $RFC
     port: 9120
     icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f3f4.png
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
