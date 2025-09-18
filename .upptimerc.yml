@@ -36,12 +36,14 @@ sites:
     location: London
   - name: mstdn
     url: https://mstdn.lt
+    icon: https://joinmastodon.org/_next/static/media/favicon-32x32.3a702fe9.png
     expectedStatusCodes:
     - 410
     type: globalping
     location: Lithuania
   - name: toot
     url: https://toot.lt
+    icon: https://joinmastodon.org/_next/static/media/favicon-32x32.3a702fe9.png
     expectedStatusCodes:
     - 410
     type: globalping
