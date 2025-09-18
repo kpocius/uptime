@@ -34,6 +34,18 @@ sites:
     icon: https://caddyserver.com/resources/images/favicon.png
     type: globalping
     location: London
+  - name: mstdn
+    url: https://mstdn.lt
+    expectedStatusCodes:
+    - 410
+    type: globalping
+    location: Lithuania
+  - name: toot
+    url: https://toot.lt
+    expectedStatusCodes:
+    - 410
+    type: globalping
+    location: Lithuania
   - name: viešpirkiai
     url: https://viespirkiai.top
     icon: https://viespirkiai.top/icons/icon.png
