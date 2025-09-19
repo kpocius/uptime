@@ -54,7 +54,8 @@ sites:
     location: Lithuania
 
 status-website:
-  cname: status.poci.us
+  # cname: status.poci.us
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Poci.us & Co.
   introTitle: ""
