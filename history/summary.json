@@ -170,19 +170,19 @@
     "url": "https://river.group.lt/api/v2/instance",
     "icon": "https://joinmastodon.org/_next/static/media/favicon-32x32.3a702fe9.png",
     "slug": "upe",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1211,
-    "timeDay": 1211,
-    "timeWeek": 1211,
-    "timeMonth": 1211,
-    "timeYear": 1211,
+    "status": "up",
+    "uptime": "96.89%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "96.89%",
+    "time": 1147,
+    "timeDay": 1147,
+    "timeWeek": 1147,
+    "timeMonth": 1147,
+    "timeYear": 1147,
     "dailyMinutesDown": {
-      "2025-09-19": 0
+      "2025-09-19": 8
     }
   },
   {
