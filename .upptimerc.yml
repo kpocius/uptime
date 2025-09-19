@@ -53,32 +53,9 @@ sites:
     icon: https://joinmastodon.org/_next/static/media/favicon-32x32.3a702fe9.png
     type: globalping
     location: Lithuania
-  - name: viešpirkiai
-    url: https://viespirkiai.top
-    icon: https://viespirkiai.top/icons/icon.png
-    type: globalping
-    location: Lithuania
-  - name: Skaitytojas
-    url: https://skaitytojas.poci.us/healthz
-    icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f913.png
-    type: globalping
-    location: Lithuania
-  - name: RDP
-    check: "tcp-ping"
-    url: $RDP
-    port: 80
-    icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f3f4.png
-  - name: RFC
-    check: "tcp-ping"
-    url: $RFC
-    port: 9120
-    icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f3f4.png
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.poci.us
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: ""
@@ -88,6 +65,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
