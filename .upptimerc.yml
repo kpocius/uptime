@@ -8,7 +8,7 @@ sites:
     type: globalping
     location: Lithuania
   - name: GoToSocial
-    url: https://gts.poci.us/about
+    url: https://gts.poci.us/api/v2/instance
     type: globalping
     location: Lithuania
   - name: The Lounge
@@ -46,6 +46,10 @@ sites:
     icon: https://joinmastodon.org/_next/static/media/favicon-32x32.3a702fe9.png
     expectedStatusCodes:
     - 410
+    type: globalping
+    location: Lithuania
+  - name: Upė
+    url: https://river.group.lt/api/v2/instance
     type: globalping
     location: Lithuania
   - name: viešpirkiai
