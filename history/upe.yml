@@ -1,7 +1,7 @@
 url: https://river.group.lt/api/v2/instance
-status: down
-code: 503
-responseTime: 511
-lastUpdated: 2025-09-19T19:46:02.041Z
+status: up
+code: 200
+responseTime: 955
+lastUpdated: 2025-09-19T19:53:54.296Z
 startTime: 2025-09-19T15:40:50.779Z
 generator: Upptime <https://github.com/upptime/upptime>
