@@ -112,19 +112,19 @@
     "url": "https://globalping.io",
     "icon": "https://icons.duckduckgo.com/ip3/globalping.io.ico",
     "slug": "globalping",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-09-20": 0
+      "2025-09-20": 3
     }
   }
 ]
