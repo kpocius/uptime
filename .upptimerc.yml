@@ -33,6 +33,10 @@ sites:
     icon: https://caddyserver.com/resources/images/favicon.png
     type: globalping
     location: London
+  - name: Globalping
+    url: https://api.globalping.io
+    type: globalping
+    location: kpocius
 
 status-website:
   cname: status.poci.us
