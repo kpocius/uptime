@@ -1,7 +1,7 @@
-url: https://api.globalping.io
-status: down
-code: 404
-responseTime: 102
-lastUpdated: 2025-09-20T07:35:26.609Z
+url: https://globalping.io/
+status: up
+code: 200
+responseTime: 123
+lastUpdated: 2025-09-20T07:37:11.818Z
 startTime: 2025-09-20T07:28:30.297Z
 generator: Upptime <https://github.com/upptime/upptime>
