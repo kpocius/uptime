@@ -1,7 +1,7 @@
 url: https://gts.poci.us/api/v2/instance
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2025-09-20T05:54:40.667Z
+status: up
+code: 200
+responseTime: 90
+lastUpdated: 2025-09-20T06:04:23.529Z
 startTime: 2025-09-15T18:48:07.792Z
 generator: Upptime <https://github.com/upptime/upptime>
