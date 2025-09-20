@@ -19,10 +19,6 @@ sites:
     url: https://irc.poci.us
     type: globalping
     location: Lithuania
-  - name: The Lounge Public
-    url: https://lounge.poci.us
-    type: globalping
-    location: Lithuania
   - name: Matrix
     url: https://matrix.poci.us
     icon: https://matrix.org/assets/favicon.ico
@@ -34,7 +30,7 @@ sites:
     type: globalping
     location: London
   - name: Globalping
-    url: https://globalping.io/
+    url: https://globalping.io
     type: globalping
     location: kpocius
 
