@@ -34,12 +34,9 @@ sites:
     type: globalping
     location: London
   - name: Globalping
-    url: https://api.globalping.io
+    url: https://globalping.io/
     type: globalping
     location: kpocius
-    __dangerous__body_down_if_text_missing: '{"links":{"documentation":"https://globalping.io/docs/api.globalping.io"}}'
-    expectedStatusCodes:
-    - 404
 
 status-website:
   cname: status.poci.us
