@@ -33,6 +33,10 @@ sites:
     url: https://globalping.io
     type: globalping
     location: kpocius
+  - name: Test
+    url: http://$TST:9120/healthz
+    type: globalping
+    location: Lithuania
 
 status-website:
   cname: status.poci.us
