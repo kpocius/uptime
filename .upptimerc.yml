@@ -34,7 +34,7 @@ sites:
     type: globalping
     location: kpocius
   - name: Test
-    url: http://$TST:9120/healthz
+    url: http://$TST:42069/healthz
     type: globalping
     location: Lithuania
 
