@@ -131,18 +131,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$tst.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "2.06%",
-    "uptimeDay": "2.06%",
-    "uptimeWeek": "2.06%",
-    "uptimeMonth": "2.06%",
-    "uptimeYear": "2.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 84,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2025-09-23": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
