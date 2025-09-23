@@ -1,0 +1,7 @@
+url: http://$TST:9120/healthz
+status: down
+code: 400
+responseTime: 0
+lastUpdated: 2025-09-23T06:09:32.068Z
+startTime: 2025-09-23T06:09:31.351Z
+generator: Upptime <https://github.com/upptime/upptime>
