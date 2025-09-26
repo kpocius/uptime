@@ -42,19 +42,19 @@
     "url": "https://gts.poci.us/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/gts.poci.us.ico",
     "slug": "go-to-social",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 118,
-    "timeWeek": 131,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 134,
+    "timeDay": 110,
+    "timeWeek": 130,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-09-26": 0
+      "2025-09-26": 93
     }
   },
   {
