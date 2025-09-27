@@ -30,7 +30,7 @@ sites:
     type: globalping
     location: London
   - name: Globalping
-    url: https://globalping.io
+    url: https://api.globalping.io/v1/limits
     type: globalping
     location: kpocius
 
